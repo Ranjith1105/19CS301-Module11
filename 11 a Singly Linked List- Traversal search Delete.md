@@ -1,5 +1,7 @@
 # 19CS301-Module11
 ### EX: 11.a Singly Linked List (Traversal, Search and Delete)
+Reg no: 212223020021
+Name: Ranjith P
 
 ### Aim: 
 Write a function to traverse the linked list and display it in the following format.
