@@ -71,4 +71,5 @@ new_linked_list.traverse_list()
 
  
 
-### Result: Thus, the given program is implemented and executed successfully.
+### Result: 
+Thus, the given program is implemented and executed successfully.
