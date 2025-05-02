@@ -60,7 +60,8 @@ MyList.PrintList()
 
 
 
-### Result: Thus, the given program is implemented and executed successfully .
+### Result: 
+Thus, the given program is implemented and executed successfully .
  
 
 
