@@ -54,7 +54,8 @@ list.listprint()
 ![image](https://github.com/user-attachments/assets/f7547c51-0a61-45c2-93da-48fbb60de473)
 
 
-### Result: Thus, the given program is implemented and executed successfully .
+### Result:
+Thus, the given program is implemented and executed successfully .
  
 
 
