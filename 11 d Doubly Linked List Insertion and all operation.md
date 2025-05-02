@@ -1,8 +1,9 @@
-### EX: 
-11.d Doubly Linked List (Insertion and all operation)
+### EX: 11.d Doubly Linked List (Insertion and all operation)
+Reg no: 212223020021
+Name: Ranjith P
 
-
-### Aim: To Type a python function to insert elements at the beginning of the doubly linked list.
+### Aim:
+To Type a python function to insert elements at the beginning of the doubly linked list.
 ### Algorithm:
 STEP 1: Start.
 
