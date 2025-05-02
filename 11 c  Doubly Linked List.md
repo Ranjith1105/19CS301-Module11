@@ -1,6 +1,7 @@
 ### EX: 11.C Doubly Linked List (Traversal, Search and Delete)
 
-### Aim: To Write a python program to traverse the elements in doubly linked list.
+### Aim: 
+To Write a python program to traverse the elements in doubly linked list.
 
 ### Algorithm:
 
