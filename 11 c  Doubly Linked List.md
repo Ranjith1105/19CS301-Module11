@@ -1,4 +1,6 @@
 ### EX: 11.C Doubly Linked List (Traversal, Search and Delete)
+Reg no; 212223020021
+Name: Ranjith P
 
 ### Aim: 
 To Write a python program to traverse the elements in doubly linked list.
