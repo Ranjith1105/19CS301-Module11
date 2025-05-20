@@ -12,6 +12,7 @@ STEP 1: Start.
 STEP 2: Create a node class and object of the node.
 
 STEP 3: Create another class to use the node object.
+
 STEP 4 : Traverse the list from start to last data element.
 
 STEP 5 : Print the data.
