@@ -1,5 +1,5 @@
 # 19CS301-Module11
-### EX: 11.a Singly Linked List (Traversal, Search and Delete)
+### EX: 11.a Singly Linked List (Traversal and Display)
 Reg no: 212223020021
 Name: Ranjith P
 
